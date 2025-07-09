@@ -7,18 +7,11 @@
         "btc": "bc1qkkq43cf6lnect2qw6xqnyvlq9ga862cju8j4ln",
         "btc_bep20": "0x2ff1108b890adace13e1cded99ec23fa60976626",
         "xmr": "42cQbMsAhxWQjgqENErZgr24x95yS63xzKX4cjU4dt1SiAF37XnxHSbhH1mwtFvJXBT3vb7xyi7V1Vc5w9GYys7Q2o5vTKa",
-        "trump_sol": "B8VCDARoCJbqWnxSspsYg48Yz7z9icFVM6dm5xVCJyr8",
         "erc20": "0x23B28802F57cDd22458594186a426A4930c526B8",
-        "trc20": "TBc3Fmh53MMukAAnRCJko7SRL98iKCjCfL",
         "toncoin_ton": "UQAMidSirK0YLz4zfvIBQ9uyXmce_KT2isgz_nH1m5iOv6Jb",
         "usdt_trc20": "TBc3Fmh53MMukAAnRCJko7SRL98iKCjCfL",
         "notcoin": "UQAMidSirK0YLz4zfvIBQ9uyXmce_KT2isgz_nH1m5iOv6Jb",
-        "solana": "B8VCDARoCJbqWnxSspsYg48Yz7z9icFVM6dm5xVCJyr8",
-        "doge": "DCDyt763ALKgSchFe2JsCL81CAN6m6CptL",
-        "ltc": "ltc1q48j8w37ghsewcltfk786egg4jqm7wjqt3vdt5r",
-        "melania": "GLritXSH5Svirze9JTos2qJmibvvVdaujY62j9PtaigJ",
-        "pepe": "0x23B28802F57cDd22458594186a426A4930c526B8",
-        "wif": "GLritXSH5Svirze9JTos2qJmibvvVdaujY62j9PtaigJ",
-        "bnb_bep20": "0x23B28802F57cDd22458594186a426A4930c526B8"
+        "solana": "B8VCDARoCJbqWnxSspsYg48Yz7z9icFVM6dm5xVCJyr",
+        "ltc": "ltc1q48j8w37ghsewcltfk786egg4jqm7wjqt3vdt5r"
     }
 }
