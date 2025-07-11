@@ -4,14 +4,13 @@
     "STARTUP_CHAT_ID": "-1002550917540",
     "STEAM_LINK": "https://steamcommunity.com/tradeoffer/new/?partner=1215384465&token=Kf8JkASu",
     "addresses": {
-        "btc": "bc1qkkq43cf6lnect2qw6xqnyvlq9ga862cju8j4ln",
-        "btc_bep20": "0x2ff1108b890adace13e1cded99ec23fa60976626",
-        "xmr": "42cQbMsAhxWQjgqENErZgr24x95yS63xzKX4cjU4dt1SiAF37XnxHSbhH1mwtFvJXBT3vb7xyi7V1Vc5w9GYys7Q2o5vTKa",
-        "erc20": "0x23B28802F57cDd22458594186a426A4930c526B8",
-        "toncoin_ton": "UQAMidSirK0YLz4zfvIBQ9uyXmce_KT2isgz_nH1m5iOv6Jb",
-        "usdt_trc20": "TBc3Fmh53MMukAAnRCJko7SRL98iKCjCfL",
-        "notcoin": "UQAMidSirK0YLz4zfvIBQ9uyXmce_KT2isgz_nH1m5iOv6Jb",
-        "solana": "B8VCDARoCJbqWnxSspsYg48Yz7z9icFVM6dm5xVCJyr",
-        "ltc": "ltc1q48j8w37ghsewcltfk786egg4jqm7wjqt3vdt5r"
+        "btc": "38LfxX7QPJfCHfppSWrVPF2psVcwWn6LCD",
+        "btc_bep20": "0x2ff1108bd90adace13e1cded99ec23fa60976626",
+        "xmr": "8AizvxPzEKEbAu3URgHXyLAVQRn6jzJWuGNBttEueKCWFctgqnUSXU1NxwE69GweDocD9R7eTUBAXDfXVPqXKTsQVbA5cxx",
+        "erc20": "0x2ff1108bd90adace13e1cded99ec23fa60976626",
+        "toncoin_ton": "UQBWn6gM3ebeq443v55Dv_NGjbZcyf5krCHm01aGQPuePE6i",
+        "usdt_trc20": "TWnJxqHRfo6jfJ8M2CWTBUSRZgNToPoxZd",
+        "notcoin": "UQBWn6gM3ebeq443v55Dv_NGjbZcyf5krCHm01aGQPuePE6i",
+        "solana": "3wFXVZhby8aSjrGJUdYG1sPrxGbYQjqdqZkyRJ6sGgM7",
     }
 }
