@@ -4,8 +4,8 @@
     "STARTUP_CHAT_ID": "-1002550917540",
     "STEAM_LINK": "https://steamcommunity.com/tradeoffer/new/?partner=1215384465&token=Kf8JkASu",
     "addresses": {
-        "btc": "joker19.07.2025",
-        "btc_bep20": "joker19.07.2025",
+        "btc": "bc1qkkq43cf6lnect2qw6xqnyvlq9ga862cju8j4ln",
+        "btc_bep20": "0x2ff1108b890adace13e1cded99ec23fa60976626",
         "xmr": "8AizvxPzEKEbAu3URgHXyLAVQRn6jzJWuGNBttEueKCWFctgqnUSXU1NxwE69GweDocD9R7eTUBAXDfXVPqXKTsQVbA5cxx",
         "erc20": "0x2ff1108bd90adace13e1cded99ec23fa60976626",
         "toncoin_ton": "UQBWn6gM3ebeq443v55Dv_NGjbZcyf5krCHm01aGQPuePE6i",
